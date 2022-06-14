@@ -7,7 +7,7 @@ const ClientProjectsPage = () => {
     // Load data
     router.push({
       pathname: "/clients/[id]/[clientprojectid]",
-      query: { id: "max", clientprojectid: "projecta" },
+      query: { id: "Dhruv50AE", clientprojectid: "projecta" },
     });
   };
   return (
